@@ -1,4 +1,4 @@
-#Pokemon-game
+##Pokemon-game
 
 Juego en vue de reconocimiento de pokemones
 
