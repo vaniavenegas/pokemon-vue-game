@@ -1,4 +1,8 @@
-# 04-pokemon-game
+#Pokemon-game
+
+Juego en vue de reconocimiento de pokemones
+
+Juega en https://pokemonvania.netlify.app/
 
 ## Project setup
 ```
