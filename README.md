@@ -1,4 +1,4 @@
-# Pokemon game
+# Pokemon Vue Game
 
 Juego en vue de reconocimiento de pokemones
 
