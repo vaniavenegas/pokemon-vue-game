@@ -1,6 +1,6 @@
 # Pokemon Vue Game
 
-Juego en vue de reconocimiento de pokemones
+Juego creado con Vue de reconocimiento de pokemones
 
 Juega en https://pokemonvania.netlify.app/
 
